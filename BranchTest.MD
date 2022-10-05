@@ -73,3 +73,4 @@ git merdge test_branch
 git branch -d test_branch
 * Добавим картинки: 
 ![Это картинка команд](Screenshot_1.jpg)
+Добавим ещё немного текста
