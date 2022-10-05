@@ -71,3 +71,5 @@ git branch test_branch
 git merdge test_branch
 * Удалим ненужную версию
 git branch -d test_branch
+* Добавим картинки: 
+![Это картинка команд](Screenshot_1.jpg)
