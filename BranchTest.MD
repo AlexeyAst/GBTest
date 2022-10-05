@@ -28,6 +28,10 @@ Git - это программа, которая позволит Вам отсл
 * Git checkout <номер версии (или первые четыре символа)>  - переход к версии
 * Git checkout master – возврат к актуальной версии
 * Git diff – показывает изменения
+* Git config --global user.name "My Name" - ввести своё имя, настроить Git
+* git config --global user.email myEmail@example.com - добавим e-mail в настройки
+
+
 
 **Сегодня мы тестируем ветвление**
 * Сначала настроим git:  
