@@ -29,8 +29,13 @@ Git - это программа, которая позволит Вам отсл
 * Git checkout master – возврат к актуальной версии
 * Git diff – показывает изменения
 * git branch -d <имя версии> - удаляет версию
+* Git config --global user.name "My Name" - ввести своё имя, настроить Git
+* git config --global user.email myEmail@example.com - добавим e-mail в настройки
+* Создадим новую ветку  
+git branch test_branch
 
-**Сегодня мы тестируем ветвление**
+
+**Второй урок мы тестируем ветвление**
 * Сначала настроим git:  
 git config --global user.name "My Name"
 git config --global user.email myEmail@example.com
@@ -75,3 +80,6 @@ git branch -d test_branch
 * Добавим картинки: 
 ![Это картинка команд](Screenshot_1.jpg)
 Добавим ещё немного текста
+
+* В итоге мы пробуем создать и разрешить конфликт. 
+![В конце картинка конфликта. Я выбрала оба](%D0%A2%D0%B5%D1%81%D1%82%20%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82%D0%B0.jpg)
